@@ -17,7 +17,7 @@ Need:
 - dictionary file
 - input file
 
-In order to run on os1:
+In order to run:
 - python3 -m venv (arbitrary name of venv)
 - source (virtualenv name)/bin/activate
 - pip install bitarray
