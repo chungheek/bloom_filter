@@ -6,10 +6,10 @@ Using this BloomFilter class we add dictionary.txt to the bitarray and we need a
 and it will tell us if the input in the file are in the bloom filter or not.
 
 Following lines can be changed:
-- 9. bit_arr_size
-- 10. hash_func_count
-- 11. dictionary
-- 12. input_f
+- 9: bit_arr_size
+- 10: hash_func_count
+- 11: dictionary
+- 12: input_f
 
 Need:
 - argument for bit_arr_size (preferably greater than size of dictionary)
