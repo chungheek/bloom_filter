@@ -3,7 +3,8 @@
 bloom_filter.py is a python script that utilizes the bloom filter data structure and the
 class constructed is taken from https://www.kdnuggets.com/2016/08/gentle-introduction-bloom-filter.html.
 Using this BloomFilter class we add dictionary.txt to the bitarray and we need a sample_input.txt file
-and it will tell us if the input in the file are in the bloom filter or not.
+and it will tell us if the input in the file are in the bloom filter or not. This file was created and
+tested on python 3.6.8
 
 Following lines can be changed:
 - 9: bit_arr_size
